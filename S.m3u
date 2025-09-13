@@ -1,0 +1,233 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://ia800807.us.archive.org/25/items/sportsprem/adsportspremium1.png" group-title="STARZPLAY Sports", STARZPLAY Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://ia800807.us.archive.org/25/items/sportsprem/adsportspremium2.png" group-title="STARZPLAY Sports", STARZPLAY Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/starzplaysports-active.png" group-title="STARZPLAY Sports", STARZPLAY Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/SSC1.png" group-title="SSC Sports", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/SSC2.png" group-title="SSC Sports", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/SSC3.png" group-title="SSC Sports", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/SSCEXTRA1.png" group-title="SSC Sports", SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBC1.png" group-title="MBC Group", MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBC2.png" group-title="MBC Group", MBC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBC3.png" group-title="MBC Group", MBC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBC4.png" group-title="MBC Group", MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBC5.png" group-title="MBC Group", MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBCMax.png" group-title="MBC Group", MBC MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28c53e037e1b442dabe6ac4fa7b9c468:37d8fedcfcc4cb99c903d6aa885bcd03
+https://mbc-max-prod-dub-enc.edgenextcdn.net/out/v1/d63172e8402640c4a6fa442aa0ea2cb8/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcAction.png" group-title="MBC Group", MBC ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcDrama.png" group-title="MBC Group", MBC DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcDramaPlus.png" group-title="MBC Group", MBC PLUS DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/MbcPlusE.png" group-title="MBC Group", MBC+ eLife
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd?aws.sessionId=757a2dfb-c28c-4a5e-b3d0-66eb5ecaa625
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MBCPersia.png" group-title="MBC Group", MBC PERSIA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcMasr.png" group-title="MBC Group", MBC MASR
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcMasr2.png" group-title="MBC Group", MBC MASR 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcMasrDrama.png" group-title="MBC Group", MBC MASR DRAMA
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcIraq.png" group-title="MBC Group", MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sportsprem/MbcBollywood.png" group-title="MBC Group", MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/baby-tv_202503/MBCFM.png" group-title="MBC Group", MBC FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mov_ad/Al_Jazeera.png" group-title="News Channels", Aljazeera
+https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mov_ad/Al_Jazeera_Mubasher.png" group-title="News Channels", Aljazeera Live
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mov_ad/Al-Arabiya.png" group-title="News Channels", Al-Arabiya
+https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mov_ad/AlHadath.png" group-title="News Channels", Al-Hadath
+https://hadath-prod-dub-enc.edgenextcdn.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mov_ad/AsharqNews.png" group-title="News Channels", Asharq News
+https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/al-quran-al-kareem/Al-Quran-Al-Kareem.png" group-title="QURAN", Al Quran Al Kareem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
+https://quran-tv-prod-dub-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/al-quran-al-kareem/Al-Sunnah-al-Nabawiyah.png" group-title="QURAN", Al Sunnah al Nabawiyah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
+https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/al-quran-al-kareem/Al-Sunnah-al-Nabawiyah.png" group-title="QURAN", Al Sunnah al Nabawiyah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b468eb6cfd65b8c96ea07f9c866d3f8:14858555f26296bf66d6eb27c75b9639
+https://fastly-live.cdn.intigral-ott.net/KSU/KSU.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/SHQ_176.png" group-title="QURAN", Sharjah Quran
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=801fc9a8561073db00c5660ed198e36a:ddef5317d850a6443b6b2cf45e417753
+https://fastly-live.cdn.intigral-ott.net/SHQ/SHQ.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ARH_176.png" group-title="QURAN", Alresalah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfa79dd00db0005b77e18515e3adbdd7:9556d6db1074b82ade91f66f43a6c05b
+https://fastly-live.cdn.intigral-ott.net/ARH/ARH.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/0x0@75/http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/NGO_176.png" group-title="Documentary", National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://fastly-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/APL_176.png" group-title="Documentary", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTF_176.png" group-title="ROTANA", ROTANA Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7
+https://fastly-live.cdn.intigral-ott.net/ROTF/ROTF.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTD_176.png" group-title="ROTANA", ROTANA Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19
+https://fastly-live.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTCM_176.png" group-title="ROTANA", ROTANA Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc
+https://fastly-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTCK_176.png" group-title="ROTANA", ROTANA Cinema+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf
+https://fastly-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTCU_176.png" group-title="ROTANA", ROTANA Cinema+ US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae
+https://fastly-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTFP_176.png" group-title="ROTANA", ROTANA AFLAM+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929
+https://fastly-live.cdn.intigral-ott.net/ROTFP/ROTFP.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTZ_176.png" group-title="ROTANA", ROTANA CLASSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2
+https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTK_176.png" group-title="ROTANA", ROTANA Khalijia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
+https://fastly-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ROTI_176.png" group-title="ROTANA", ROTANA Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d
+https://fastly-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DIS_176.png" group-title="Kids Channels", Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
+https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DJR_176.png" group-title="Kids Channels", Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/TCN_176.png" group-title="Kids Channels", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c
+https://fastly-live.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCD_176.png" group-title="STC", STC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCC_176.png" group-title="STC", STC CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+https://fastly-live.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCF_176.png" group-title="STC", STC FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/STCT_176.png" group-title="STC", STC 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+https://fastly-live.cdn.intigral-ott.net/STCT/STCT.isml/manifest.mpd
